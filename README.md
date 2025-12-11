@@ -1,6 +1,10 @@
 Sales Performance Dashboard (Excel Pivot Analysis)
 📌 Overview
 
+
+<img width="1200" height="515" alt="Screenshot 2025-12-11 133320" src="https://github.com/user-attachments/assets/1ed4f894-2286-4735-9df7-eac5634ed283" />
+
+
 This project analyzes sales performance using Excel PivotTables and PivotCharts.
 The goal is to identify top regions, top-performing products, and the best sales representatives using interactive Excel dashboards.
 
@@ -63,3 +67,6 @@ Top Product: Ink Cartridge
 Top Sales Rep: Janet
 
 The business growth is strongly supported by consumable products and high-performing regions.
+
+
+
