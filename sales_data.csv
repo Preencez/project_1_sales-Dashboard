@@ -1,0 +1,16 @@
+order_id,order_date,customer_name,region,product,quantity,unit_price,revenue,sales_rep
+1001,2024-01-03,Alpha Stores,North,Printer Paper,50,1200,60000,Janet
+1002,2024-01-04,Green Mart,East,Ink Cartridge,20,8500,170000,Michael
+1003,2024-01-05,City Supplies,West,Staplers,15,2500,37500,Sandra
+1004,2024-01-07,Prime Traders,South,Notebooks,100,500,50000,Janet
+1005,2024-01-08,Alpha Stores,North,Markers,40,1500,60000,Sandra
+1006,2024-01-09,Urban Hub,East,Highlighters,25,2000,50000,Ryan
+1007,2024-01-10,Green Mart,East,Printer Paper,30,1200,36000,Michael
+1008,2024-01-12,Office World,West,Ink Cartridge,18,8500,153000,Sandra
+1009,2024-01-13,Urban Hub,East,Notebooks,70,500,35000,Janet
+1010,2024-01-15,Prime Traders,South,Markers,55,1500,82500,Ryan
+1011,2024-01-16,City Supplies,West,Highlighters,30,2000,60000,Janet
+1012,2024-01-18,Office World,West,Staplers,20,2500,50000,Michael
+1013,2024-01-19,Prime Traders,South,Printer Paper,45,1200,54000,Sandra
+1014,2024-01-20,Green Mart,East,Notebooks,90,500,45000,Ryan
+1015,2024-01-21,Alpha Stores,North,Ink Cartridge,25,8500,212500,Janet
